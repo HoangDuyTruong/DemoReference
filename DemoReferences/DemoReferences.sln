@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VideosConverter", "VideosConverter\VideosConverter.csproj", "{08CB36BD-9E3D-4AAC-8004-3879E1E5A330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestReferect", "TestReferect\TestReferect.csproj", "{CBE93BE4-AEB4-4598-9804-245A1CED59CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08CB36BD-9E3D-4AAC-8004-3879E1E5A330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CB36BD-9E3D-4AAC-8004-3879E1E5A330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CB36BD-9E3D-4AAC-8004-3879E1E5A330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CB36BD-9E3D-4AAC-8004-3879E1E5A330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE93BE4-AEB4-4598-9804-245A1CED59CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE93BE4-AEB4-4598-9804-245A1CED59CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE93BE4-AEB4-4598-9804-245A1CED59CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE93BE4-AEB4-4598-9804-245A1CED59CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B74373B2-8E9C-4450-A219-F65FCA0DF3F9}
+	EndGlobalSection
+EndGlobal
